@@ -1,1 +1,45 @@
 /*  your css code here. If applicable */
+h1 {
+  text-align: center;
+}
+
+.middle{
+  border: 1px solid black;
+  border-spacing: 1px;
+  padding: 1px;
+  width: 100%;
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+td {
+  border: 1px solid black;
+}
+
+.pad {
+  padding: 10px;
+}
+
+.w {
+  width: 33%;
+}
+#first {
+  padding: 10px;
+  background-color: green;
+}
+
+
+#last {
+  padding: 10px;
+  background-color: blue;
+}
+
+img {
+  width: 100%;
+}
